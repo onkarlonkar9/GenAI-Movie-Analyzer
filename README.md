@@ -143,5 +143,3 @@ GitHub: https://github.com/onkarlonkar9
 ⭐ Support
 If you like this project, give it a ⭐ on GitHub!
 ---## ⚠️ Straight feedback (don’t ignore this)Right now your project looks like:- “GenAI + movies” (generic idea)- Not clearly differentiatedTo make this resume-worthy:- Add **one strong feature**:  - RAG-based movie QA (huge upgrade)  - Real-time TMDB API + AI insights  - Personalized recommendation engineOtherwise it’s just another “LLM demo”.---If you want, drop your actual repo structure/code here — I’ll **rewrite this README specifically for your project (not template-level)** and make it stand out for recruiters.::contentReference[oaicite:0]{index=0}
-
-## 📂 Project Structure
