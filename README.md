@@ -1,4 +1,5 @@
 # 🎬 GenAI Movie Analyzer
+![Movie Analyzer UI](Screenshot 2026-04-27 225250.png)
 
 An AI-powered movie analysis application that leverages Generative AI to extract insights, summaries, and patterns from movie data.
 
